@@ -8,13 +8,21 @@
         "woff" : { "value": "assets/fonts/MaterialIcons-Regular.woff" },
         "woff2": { "value": "assets/fonts/MaterialIcons-Regular.woff2" }
       },
-      "opensans": {
-        "name" : { "value": "Open Sans" },
-        "ttf"  : { "value": "assets/fonts/OpenSans-Regular.ttf" }
+      "circular_bold": {
+        "name" : { "value": "Circular Bold" },
+        "ttf"  : { "value": "assets/fonts/Circular-Bold.ttf" }
       },
-      "roboto": {
-        "name" : { "value": "Roboto" },
-        "ttf"  : { "value": "assets/fonts/Roboto-Regular.ttf" }
+      "circular_book": {
+        "name" : { "value": "Circular Book" },
+        "ttf"  : { "value": "assets/fonts/Circular-Book.ttf" }
+      },
+      "circular_light": {
+        "name" : { "value": "Circular Light" },
+        "ttf"  : { "value": "assets/fonts/Circular-Light.ttf" }
+      },
+      "circular_medium": {
+        "name" : { "value": "Circular Medium" },
+        "ttf"  : { "value": "assets/fonts/Circular-Medium.ttf" }
       }
    }
   }
