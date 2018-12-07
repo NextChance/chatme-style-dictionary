@@ -26,31 +26,31 @@
     },
     "ios": {
       "transformGroup": "ios",
-      "buildPath": "build/ios/Classes/Generated/",
+      "buildPath": "ios/Source/",
       "files": [{
-        "destination": "StyleDictionaryColor.h",
+        "destination": "StyleKitColor.h",
         "format": "ios/colors.h",
-        "className": "StyleDictionaryColor",
-        "type": "StyleDictionaryColorName",
+        "className": "StyleKitColor",
+        "type": "StyleKitColorName",
         "filter": {
           "attributes": {
             "category": "color"
           }
         }
       },{
-        "destination": "StyleDictionaryColor.m",
+        "destination": "StyleKitColor.m",
         "format": "ios/colors.m",
-        "className": "StyleDictionaryColor",
-        "type": "StyleDictionaryColorName",
+        "className": "StyleKitColor",
+        "type": "StyleKitColorName",
         "filter": {
           "attributes": {
             "category": "color"
           }
         }
       },{
-        "destination": "StyleDictionarySize.h",
+        "destination": "StyleKitSize.h",
         "format": "ios/static.h",
-        "className": "StyleDictionarySize",
+        "className": "StyleKitSize",
         "type": "float",
         "filter": {
           "attributes": {
@@ -58,9 +58,9 @@
           }
         }
       },{
-        "destination": "StyleDictionarySize.m",
+        "destination": "StyleKitSize.m",
         "format": "ios/static.m",
-        "className": "StyleDictionarySize",
+        "className": "StyleKitSize",
         "type": "float",
         "filter": {
           "attributes": {
