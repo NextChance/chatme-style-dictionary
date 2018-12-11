@@ -5,7 +5,7 @@ ios/
 android/
 
 # Style Dictionary Generated Files (web)
-scss/
+src/
 
 # OS X
 .DS_Store
