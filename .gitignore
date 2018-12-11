@@ -1,6 +1,11 @@
 # Style Dictionary Generated Files (ios)
-ios/assets
-ios/Classes/Generated
+ios/
+
+# Style Dictionary Generated Files (android)
+android/
+
+# Style Dictionary Generated Files (web)
+scss/
 
 # OS X
 .DS_Store
