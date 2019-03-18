@@ -1,42 +1,40 @@
 {
   "color": {
+    "black": {
+      "value": "#000000"
+    },
     "carbon": {
       "value": "#272727"
-    },
-    "coral": {
-      "value": "#ff5d5f"
-    },
-    "error": {
-      "value": "#ee0000"
-    },
-    "melon": {
-      "value": "#60a90e"
     },
     "metal": {
       "value": "#FFE5E5E5"
     },
-    "orange": {
-      "value": "#ff7f3f"
-    },
     "silver": {
       "value": "#aaaaaa"
     },
-    "snow": {
-      "light": {
-        "value": "#ebebeb"
-      },
-      "dark": {
-        "value": "#d8d8d8d8"
-      }
+    "stone":{
+      "value": "#d8d8d8"
     },
-    "strawberry": {
-      "value": "#ec0b3c"
+    "cloud":{
+      "value": "#ebebeb"
     },
     "white": {
       "value": "#ffffff"
     },
-    "black": {
-      "value": "#000000"
+    "orange": {
+      "value": "#ff7f3f"
+    },
+    "coral": {
+      "value": "#ff5d5f"
+    },
+    "strawberry": {
+      "value": "#ec0b3c"
+    },
+    "error": {
+      "value": "#cd0000"
+    },
+    "melon": {
+      "value": "#7bcc1f"
     }
   }
 }
