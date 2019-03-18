@@ -6,80 +6,94 @@
     "scss": {
       "transformGroup": "scss",
       "buildPath": "./src/scss/sd/",
-      "files": [{
-        "destination": "colors.scss",
-        "format": "scss/variables",
-        "filter": {
-          "attributes": {
-            "category": "color"
+      "files": [
+        {
+          "destination": "colors.scss",
+          "format": "scss/variables",
+          "filter": {
+            "attributes": {
+              "category": "color"
+            }
+          }
+        },
+        {
+          "destination": "sizes.scss",
+          "format": "scss/variables",
+          "filter": {
+            "attributes": {
+              "category": "size"
+            }
           }
         }
-      },{
-        "destination": "sizes.scss",
-        "format": "scss/variables",
-        "filter": {
-          "attributes": {
-            "category": "size"
-          }
-        }
-      }]
+      ]
     },
     "ios": {
       "transformGroup": "ios",
       "buildPath": "ios/Source/",
-      "files": [{
-        "destination": "StyleKitColor.h",
-        "format": "ios/colors.h",
-        "className": "StyleKitColor",
-        "type": "StyleKitColorName",
-        "filter": {
-          "attributes": {
-            "category": "color"
+      "files": [
+        {
+          "destination": "StyleKitColor.h",
+          "format": "ios/colors.h",
+          "className": "StyleKitColor",
+          "type": "StyleKitColorName",
+          "filter": {
+            "attributes": {
+              "category": "color"
+            }
+          }
+        },
+        {
+          "destination": "StyleKitColor.m",
+          "format": "ios/colors.m",
+          "className": "StyleKitColor",
+          "type": "StyleKitColorName",
+          "filter": {
+            "attributes": {
+              "category": "color"
+            }
+          }
+        },
+        {
+          "destination": "StyleKitSize.h",
+          "format": "ios/static.h",
+          "className": "StyleKitSize",
+          "type": "float",
+          "filter": {
+            "attributes": {
+              "category": "size"
+            }
+          }
+        },
+        {
+          "destination": "StyleKitSize.m",
+          "format": "ios/static.m",
+          "className": "StyleKitSize",
+          "type": "float",
+          "filter": {
+            "attributes": {
+              "category": "size"
+            }
           }
         }
-      },{
-        "destination": "StyleKitColor.m",
-        "format": "ios/colors.m",
-        "className": "StyleKitColor",
-        "type": "StyleKitColorName",
-        "filter": {
-          "attributes": {
-            "category": "color"
-          }
-        }
-      },{
-        "destination": "StyleKitSize.h",
-        "format": "ios/static.h",
-        "className": "StyleKitSize",
-        "type": "float",
-        "filter": {
-          "attributes": {
-            "category": "size"
-          }
-        }
-      },{
-        "destination": "StyleKitSize.m",
-        "format": "ios/static.m",
-        "className": "StyleKitSize",
-        "type": "float",
-        "filter": {
-          "attributes": {
-            "category": "size"
-          }
-        }
-      }]
+      ]
     },
-
     "android": {
       "transformGroup": "android",
       "buildPath": "android/styledictionary/src/main/res/values/",
-      "files": [{
-        "destination": "style_dictionary_colors.xml",
-        "format": "android/colors"
-      },{
-        "destination": "style_dictionary_font_dimens.xml",
-        "format": "android/fontDimens"
-      }]
+      "files": [
+        {
+          "destination": "chatme_colors.xml",
+          "format": "android/colors"
+        },
+        {
+          "destination": "chatme_font_dimens.xml",
+          "format": "android/fontDimens"
+        },
+        {
+          "destination": "chatme_dimens.xml",
+          "format": "android/dimens"
+        }
+      ]
     }
   }
 }
