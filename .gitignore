@@ -1,32 +1,14 @@
-# Style Dictionary Generated Files (ios)
-ios/
-
-# Style Dictionary Generated Files (android)
+# Style Dictionary Generated Files
 android/
-
-# Style Dictionary Generated Files (web)
+ios/
 scss/
 
 # OS X
 .DS_Store
 
-# Xcode
-build/
-*.pbxuser
-!default.pbxuser
-*.mode1v3
-!default.mode1v3
-*.mode2v3
-!default.mode2v3
-*.perspectivev3
-!default.perspectivev3
-xcuserdata/
-*.xccheckout
-profile
-*.moved-aside
-DerivedData
-*.hmap
-*.ipa
+# Dependency directories
+node_modules/
 
-# Bundler
+# Optional cache directory
 .bundle
+.npm
