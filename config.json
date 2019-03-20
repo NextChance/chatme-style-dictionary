@@ -5,7 +5,7 @@
   "platforms": {
     "scss": {
       "transformGroup": "scss",
-      "buildPath": "./src/scss/sd/",
+      "buildPath": "scss/sd/",
       "files": [{
         "destination": "colors.scss",
         "format": "scss/variables",
