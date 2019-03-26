@@ -1,32 +1,40 @@
 {
   "color": {
-    "base": {
-      "palatinate": {
-        "900" : { "value": "#FF31677C", "attributes": {"font": "base"}}
-      },
-      "maya": {
-        "900" : { "value": "#FFF1F1F1", "attributes": {"font": "base"}}
-      },
-      "sky": {
-        "900"  : { "value": "#FF55CA83", "attributes": {"font": "base"}}
-      },
-      "slate": {
-        "900"  : { "value": "#FFE5E5E5", "attributes": {"font": "base"}}
-      },
-      "pink": {
-        "900" : { "value": "#FF484848", "attributes": {"font": "base"}}
-      },
-      "success": {
-        "900" : { "value": "#FF55CA83", "attributes": {"font": "base"}}
-      },
-      "warning": {
-        "900" : { "value": "#FFFFAE00", "attributes": {"font": "base"}}
-      },
-      "error": {
-        "900"  : { "value": "#FFF75263", "attributes": {"font": "base"}}
-      },
-      "white": { "value": "#ffffff" },
-      "black": { "value": "#000000" }
+    "black": {
+      "value": "#000000"
+    },
+    "carbon": {
+      "value": "#272727"
+    },
+    "metal": {
+      "value": "#737373"
+    },
+    "silver": {
+      "value": "#aaaaaa"
+    },
+    "stone":{
+      "value": "#d8d8d8"
+    },
+    "cloud":{
+      "value": "#ebebeb"
+    },
+    "white": {
+      "value": "#ffffff"
+    },
+    "orange": {
+      "value": "#ff7f3f"
+    },
+    "coral": {
+      "value": "#ff5d5f"
+    },
+    "strawberry": {
+      "value": "#ec0b3c"
+    },
+    "error": {
+      "value": "#cd0000"
+    },
+    "melon": {
+      "value": "#7bcc1f"
     }
   }
 }
