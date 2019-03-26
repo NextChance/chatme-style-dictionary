@@ -1,0 +1,11 @@
+{
+    "size":{
+        "xxs":{"value":0.25},
+        "xs":{"value": 0.5},
+        "s":{"value": 1},
+        "m":{"value": 1.5},
+        "l":{"value": 2},
+        "xl":{"value": 3},
+        "xxl":{"value": 4}
+    }
+}
