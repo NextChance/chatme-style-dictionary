@@ -22,19 +22,28 @@
       "value": "#ffffff"
     },
     "orange": {
-      "value": "#ff7f3f"
+      "value": "#fa915a"
     },
     "coral": {
-      "value": "#ff5d5f"
+      "value": "#fa5a5a"
     },
-    "strawberry": {
-      "value": "#ec0b3c"
+    "tile": {
+      "value": "#ca3d3d"
     },
     "error": {
-      "value": "#cd0000"
+      "value": "#dc0000"
     },
     "melon": {
-      "value": "#7bcc1f"
+      "value": "#60a90e"
+    },
+    "night": {
+      "value": "#1f2d51"
+    },
+    "sea": {
+      "value": "#379aaf"
+    },
+    "sun": {
+      "value": "#ffba12"
     }
   }
 }
