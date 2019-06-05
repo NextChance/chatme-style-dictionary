@@ -47,6 +47,9 @@
     },
     "sun": {
       "value": "#ffba12"
+    },
+    "storm": {
+      "value": "#8f96a8"
     }
   }
 }
