@@ -42,8 +42,14 @@
     "sea": {
       "value": "#379aaf"
     },
+    "sea_transparent": {
+      "value": "#379aaf33"
+    },
     "sun": {
       "value": "#ffba12"
+    },
+    "storm": {
+      "value": "#8f96a8"
     }
   }
 }
