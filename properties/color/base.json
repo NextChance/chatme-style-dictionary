@@ -42,6 +42,9 @@
     "sea": {
       "value": "#379aaf"
     },
+    "sea_transparent": {
+      "value": "#379aaf44"
+    },
     "sun": {
       "value": "#ffba12"
     }
