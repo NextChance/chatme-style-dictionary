@@ -1,55 +1,40 @@
 {
   "color": {
-    "black": {
-      "value": "#000000"
+    "primary-1": {
+      "value": "#fa5a5a"
     },
-    "carbon": {
+    "primary-1-light": {
+      "value": "#fdbfbf"
+    },
+    "primary-1-dark": {
+      "value": "#d00606"
+    },
+    "primary-2": {
+      "value": "#1f2d51"
+    },
+    "secondary": {
+      "value": "#379aaf"
+    },
+    "gray-1": {
       "value": "#272727"
     },
-    "metal": {
+    "gray-2": {
       "value": "#737373"
     },
-    "silver": {
+    "gray-3": {
       "value": "#aaaaaa"
     },
-    "stone":{
+    "gray-4": {
       "value": "#d8d8d8"
     },
-    "cloud":{
-      "value": "#f7f7f7"
+    "gray-5": {
+      "value": "#ebebeb"
     },
     "white": {
       "value": "#ffffff"
     },
-    "orange": {
-      "value": "#fa915a"
-    },
-    "coral": {
-      "value": "#fa5a5a"
-    },
-    "tile": {
-      "value": "#ca3d3d"
-    },
-    "error": {
-      "value": "#dc0000"
-    },
-    "melon": {
-      "value": "#60a90e"
-    },
-    "night": {
-      "value": "#1f2d51"
-    },
-    "sea": {
-      "value": "#379aaf"
-    },
-    "sea_transparent": {
-      "value": "#379aaf33"
-    },
-    "sun": {
+    "rating": {
       "value": "#ffba12"
-    },
-    "storm": {
-      "value": "#8f96a8"
     }
   }
 }
