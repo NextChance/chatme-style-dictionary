@@ -35,6 +35,54 @@
     },
     "rating": {
       "value": "#ffba12"
+    },
+    "black": {
+      "value": "#000000"
+    },
+    "carbon": {
+      "value": "#272727"
+    },
+    "metal": {
+      "value": "#737373"
+    },
+    "silver": {
+      "value": "#aaaaaa"
+    },
+    "stone":{
+      "value": "#d8d8d8"
+    },
+    "cloud":{
+      "value": "#f7f7f7"
+    },
+    "orange": {
+      "value": "#fa915a"
+    },
+    "coral": {
+      "value": "#fa5a5a"
+    },
+    "tile": {
+      "value": "#ca3d3d"
+    },
+    "error": {
+      "value": "#dc0000"
+    },
+    "melon": {
+      "value": "#60a90e"
+    },
+    "night": {
+      "value": "#1f2d51"
+    },
+    "sea": {
+      "value": "#379aaf"
+    },
+    "sea_transparent": {
+      "value": "#379aaf33"
+    },
+    "sun": {
+      "value": "#ffba12"
+    },
+    "storm": {
+      "value": "#8f96a8"
     }
   }
 }
